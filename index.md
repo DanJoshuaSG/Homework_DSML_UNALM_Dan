@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## Introducción
+
+Esta plataforma permitirá almacenar y mostrar adecuadamente las actividades solicitadas en el curso de de *Data Science Machine Learning & Deep Learning* de la Universidad Nacional Agraria la Molina. 
+
+## Top 10 Tendencias tecnológicas para el 2020
+
+### Tecnología 1
+
+### Tecnología 2
+
+### Tecnología 3
+
+### Tecnología 4
+
+### Tecnología 5
+
+### Tecnología 6
+
+### Tecnología 7
 
 You can use the [editor on GitHub](https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
