@@ -4,14 +4,19 @@ Esta plataforma permitirá almacenar y mostrar adecuadamente las actividades sol
 
 ## Top 10 Tendencias tecnológicas para el 2020
 
-El 2020 es un año será un año memorable, no solo por el contexto de la pandemia del COVID 19, sino también por los avances tecnológicos en muchos campos de la industria y la academia. En esta oportunidad describiré diez de ellas que consideró más resaltantes por el nivel de impacto y alcance que tendrán a futuro. Mi investigación parte de dos artículos digitales presentados por la página [Medium](https://medium.com/@satyanageshan8/top-technology-trends-for-2020-13eb7a467279) y el área de divulgación de la BBC: [Science Focus](https://www.sciencefocus.com/future-technology/new-technology-trends-2020s/). Considero que ambos enfoques son complementarios, ya que representan las perspectivas de un bloggero tecnológico y la de un equipo de comunicación. 
+El 2020 es un año será un año memorable, no solo por el contexto de la pandemia del COVID 19, sino también por los avances tecnológicos en muchos campos de la industria y la academia. En esta oportunidad describiré diez de ellas que consideró más resaltantes por el nivel de impacto y alcance que tendrán a futuro. Mi investigación parte de dos artículos digitales presentados por la página [Medium](https://medium.com/@satyanageshan8/top-technology-trends-for-2020-13eb7a467279) y el área de divulgación de la BBC: [Science Focus](https://www.sciencefocus.com/future-technology/new-technology-trends-2020s/). Considero que ambos enfoques son complementarios, ya que representan las perspectivas de los usuarios tecnológicos y la de un medio de comunicación respectivamente. 
 
-### Inteligencia Artificial (IA) / Procesamiento de Lenguaje Natural (NLP) y reconocimiento de Voz / Automatización / RPA/
+### Procesamiento de Lenguaje Natural (NLP) y reconocimiento de Voz
+
+<img src="https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/1_dCVvIX13M7VCrhFC8vJtgA.jpg" width="700" height="500">
+
+### Automatización y RPA
 
 
 ### Blockchain
 
 ### Internet de las cosas (IoT)
+<img src="https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/internet-of-things-iot-internet-de-las-cosas.png" width="500" height="500">
 
 ### Telecomunicaciones 5G
 
@@ -26,10 +31,6 @@ El 2020 es un año será un año memorable, no solo por el contexto de la pandem
 ### Edición Genética con CRISPR
 
 ### Organismos biológicos progamables
-
-You can use the [editor on GitHub](https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
