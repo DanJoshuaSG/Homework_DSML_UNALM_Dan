@@ -8,7 +8,7 @@ El 2020 es un año será un año memorable, no solo por el contexto de la pandem
 
 ### Procesamiento de Lenguaje Natural (NLP) y reconocimiento de Voz
 
-<img src="https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/1_dCVvIX13M7VCrhFC8vJtgA.jpg" width="700" height="500">
+
 
 ### Automatización y RPA
 
@@ -16,6 +16,7 @@ El 2020 es un año será un año memorable, no solo por el contexto de la pandem
 ### Blockchain
 
 ### Internet de las cosas (IoT)
+![IoT](https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/internet-of-things-iot-internet-de-las-cosas.png)
 <img src="https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/internet-of-things-iot-internet-de-las-cosas.png" width="500" height="500">
 
 ### Telecomunicaciones 5G
