@@ -56,6 +56,7 @@ El 2020 es un año será un año memorable, no solo por el contexto de la pandem
 <p align="center">
   <img src="images/3DPrinting.png" width="200" height="200">
 </p>
+
 ### 10. Edición Genética con CRISPR
 <p align="center">
   <img src="images/gencrispr.jpg" width="200" height="200">
