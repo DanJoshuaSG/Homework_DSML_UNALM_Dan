@@ -16,8 +16,7 @@ El 2020 es un año será un año memorable, no solo por el contexto de la pandem
 ### Blockchain
 
 ### Internet de las cosas (IoT)
-![IoT](https://github.com/DanJoshuaSG/Homework_DSML_UNALM_Dan/blob/master/internet-of-things-iot-internet-de-las-cosas.png)
-<img src="internet-of-things-iot-internet-de-las-cosas.png" width="500" height="500">
+<img src="images/internet-of-things-iot-internet-de-las-cosas.png" width="500" height="500">
 
 ### Telecomunicaciones 5G
 
