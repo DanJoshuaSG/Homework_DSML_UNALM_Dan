@@ -5,10 +5,12 @@ Esta plataforma permitirá almacenar y mostrar adecuadamente las actividades sol
 ## Top 10 Tendencias tecnológicas para el 2020
 
 
-El 2020 es un año será un año memorable, no solo por el contexto de la pandemia del COVID 19, sino también por los avances tecnológicos en muchos campos de la industria y la academia. En esta oportunidad describiré diez de ellas que consideró más resaltantes por el nivel de impacto y alcance que tendrán a futuro. Mi investigación parte de dos artículos digitales presentados por la página [Medium](https://medium.com/@satyanageshan8/top-technology-trends-for-2020-13eb7a467279) y el área de divulgación de la BBC: [Science Focus](https://www.sciencefocus.com/future-technology/new-technology-trends-2020s/). Considero que ambos enfoques son complementarios, ya que representan las perspectivas de los usuarios tecnológicos y la de un medio de comunicación respectivamente. 
+El 2020 será un año memorable, no solo por el contexto de la pandemia del COVID 19, sino también por los avances tecnológicos en muchos campos de la industria y la academia. En esta oportunidad describiré diez tecnologías que consideró que son resaltantes por el alcance que tendrán a futuro y cómo redifinirán el concepto de lo cotidiano. Mi investigación parte de dos artículos digitales presentados por la página [Medium](https://medium.com/@satyanageshan8/top-technology-trends-for-2020-13eb7a467279) y el área de divulgación de la BBC: [Science Focus](https://www.sciencefocus.com/future-technology/new-technology-trends-2020s/). Considero que ambos enfoques son pertinentas, ya que el primero representa la percepción de un usuario y bloguero tecnológico mientras que la segunda fui hecha por un medio de comunicación con la finalidad de llegar a un mayor público pero menos especializado.
 
 
 ### 1. Procesamiento de Lenguaje Natural (NLP) y reconocimiento de Voz
+La presencia de _chatbots_ en diferentes servicios es el ápice de una revolución en el entendimiento entre una máquina y una persona. Si bien, no son parte de la inteligencia artificial per se, los algoritmos de procesamiento del lenguaje natural o NLP (_Natural Language Processing_) permitirán que los asistentes virtuales como Siri o Cortana puedan incluso interpretar los mensajes ocultos tras el tono de voz o dobles intenciones en frases de doble sentido
+
 <p align="center">
   <img src="images/NLP.png" width="300" height="200">
 </p>
