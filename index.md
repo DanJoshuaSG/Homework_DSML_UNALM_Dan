@@ -9,11 +9,14 @@ El 2020 será un año memorable, no solo por el contexto de la pandemia del COVI
 
 
 ### 1. Procesamiento de Lenguaje Natural (NLP) y reconocimiento de Voz
-La presencia de _chatbots_ en diferentes servicios es el ápice de una revolución en el entendimiento entre una máquina y una persona. Si bien, no son parte de la inteligencia artificial per se, los algoritmos de procesamiento del lenguaje natural o NLP (_Natural Language Processing_) permitirán que los asistentes virtuales como Siri o Cortana puedan incluso interpretar los mensajes ocultos tras el tono de voz o dobles intenciones en frases de doble sentido
 
 <p align="center">
   <img src="images/NLP.png" width="300" height="200">
 </p>
+
+Controlar objetos con la voz y hacer que estos nos respondan son ya una realidad. Y es que esto es posible gracias a algoritmos tan simples como los chatbots hasta tecnologías más sofisticadas como los asistentes virtuales. Pero ahora el reto es que la máquina entienda y responda a través del **procesamiento del lenguaje natural o NLP**. Este algoritmo se basa en el uso de complejos algoritmos de IA retroalimentados con conversaciones entre humanos y ordenadores y gracias a este se podría entender el sarcasmo, los juegos de palabras y los contextos de doble significado típicos de una conversación humana.
+ En el 2018, Google dio un paso importante en esta área tras lanzar la aplicación [Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html). Este asistente permite hacer reservaciones en restaurantes o salones de belleza, ya sea de manera online o incluso con una llamada telefónica tan _humana_ que confundiría a más de uno. Sin embargo, tendía a presentar deficiencias que han sido corregidas durante estos años. 
+Al día de hoy, Google sigue trabajando para incorporar el lenguaje natural a nuestras vidas. Y es que, en el 2020, el uso de tecnologías NLP en muchos servicios se ha incrementado y es mayor que años pasados.
 
 
 
