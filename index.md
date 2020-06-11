@@ -14,25 +14,40 @@ El 2020 será un año memorable, no solo por el contexto de la pandemia del COVI
   <img src="images/NLP.png" width="300" height="200">
 </p>
 
-Controlar objetos con la voz y hacer que estos nos respondan son ya una realidad. Y es que esto es posible gracias a algoritmos tan simples como los chatbots hasta tecnologías más sofisticadas como los asistentes virtuales. Pero ahora el reto es que la máquina entienda y responda a través del **procesamiento del lenguaje natural o NLP**. Este algoritmo se basa en el uso de complejos algoritmos de IA retroalimentados con conversaciones entre humanos y ordenadores y gracias a este se podría entender el sarcasmo, los juegos de palabras y los contextos de doble significado típicos de una conversación humana.
- En el 2018, Google dio un paso importante en esta área tras lanzar la aplicación [Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html). Este asistente permite hacer reservaciones en restaurantes o salones de belleza, ya sea de manera online o incluso con una llamada telefónica tan _humana_ que confundiría a más de uno. Sin embargo, tendía a presentar deficiencias que han sido corregidas durante estos años. 
+Controlar objetos con la voz y hacer que estos nos respondan son ya una realidad. Y es que esto es posible gracias a algoritmos tan simples como los chatbots hasta tecnologías más sofisticadas como los asistentes virtuales. Pero ahora el reto es que la máquina entienda y responda a través del **procesamiento del lenguaje natural o NLP**. 
+
+Este algoritmo se basa en el uso de complejos algoritmos de IA retroalimentados con conversaciones entre humanos y ordenadores y gracias a este se podría entender el sarcasmo, los juegos de palabras y los contextos de doble significado típicos de una conversación humana.
+
+En el 2018, Google dio un paso importante en esta área tras lanzar la aplicación [Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html). Este asistente permite hacer reservaciones en restaurantes o salones de belleza, ya sea de manera online o incluso con una llamada telefónica tan _humana_ que confundiría a más de uno. Sin embargo, tendía a presentar deficiencias que han sido corregidas durante estos años. 
+
 Al día de hoy, Google sigue trabajando para incorporar el lenguaje natural a nuestras vidas. Y es que, en el 2020, el uso de tecnologías NLP en muchos servicios se ha incrementado y es mayor que años pasados.
 
 
-
 ### 2. Automatización y RPA
-[JupyterNotebook](https://github.com/DanJoshuaSG/DataScience_DanSG/blob/master/Texts_Plot.ipynb) 
+
 <p align="center">
   <img src="images/RPA.png" width="300" height="200">
 </p>
 
+La **automatización robótica de procesos** o [RPA](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_rob%C3%B3tica_de_procesos) es una forma naciente de automatización de los procesos de negocio que replica las acciones de un ser humano interactuando con la interfaz de usuario de un sistema informático.
+
+La RPA no es nueva y es considerada como un producto de la inteligencia artificial de poca complejidad. No obstante, es presentada como un “trending topic” en la mayoría de conferencias de tecnología e industria, lo cual dio pie a muchas inversiones para su desarrollo. Por lo que se piensa que en el 2020, se implementen tecnologías de RPA para crear y optimizar procesos que gestionen adecuadamente los recursos de una empresa de forma automática, estas empresas se conocen como empresas inteligentes.
+
+Un ejemplo es [Cisco](https://es.slideshare.net/governmenttechnology/ny-dgs-19-presentation-robotic-process-automation) que ya está usando RPA para aumetar el valor de su fuerza laboral. 
+
+
+
+| Comando | Descripción |
+| --- | --- |
+| `git status` | Enumera todos los archivos *nuevos o modificados* |
+| `git diff` | Muestra las diferencias de archivo que **no han sido** preparadas |
 
 ### 3. Blockchain
 <p align="center">
   <img src="images/blockchain.PNG" width="300" height="150">
 </p>
 
-### 4. Internet de las cosas (IoT)
+### 4. Internet de las cosas (IoT) y Cloud
 <p align="center">
 <img src="images/internet-of-things-iot-internet-de-las-cosas.png" width="250" height="250">
 </p>
@@ -66,10 +81,7 @@ Al día de hoy, Google sigue trabajando para incorporar el lenguaje natural a nu
 <p align="center">
   <img src="images/gencrispr.jpg" width="200" height="200">
 </p>
-### Organismos biológicos progamables
-<p align="center">
-  <img src="images/5G.png" width="200" height="200">
-</p>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
