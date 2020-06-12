@@ -132,7 +132,7 @@ A partir de 2020, espera que todo eso cambie, a medida que las empresas se famil
 <p align="center">
   <img src="images/3DPrinting.png" width="400" height="400">
 </p>
-Si su trabajo implica diseño, es posible que pronto se encuentre con una impresora 3-D en su escritorio.
+Si su trabajo implica diseño, es posible que pronto se encuentre con una **impresora 3D** en su escritorio.
 
 La tecnología crea objetos tridimensionales al agregar material, como plástico, capa por capa, basado en un diseño generado por computadora hasta que se haya formado un objeto.
 
@@ -142,8 +142,19 @@ También significa que pueden crear objetos personalizados, como prótesis, much
 
 
 ### 10. Edición Genética con CRISPR
+
 <p align="center">
   <img src="images/gencrispr.jpg" width="200" height="200">
 </p>
 
+La **herramienta de edición de genes CRISPR** finalmente podría tratar la enfermedad a nivel genético.
 
+El nacimiento de los primeros bebés editados genéticamente del mundo causó alboroto en 2018. Las gemelas cuyos genomas fueron manipulados durante los procedimientos de FIV tuvieron su ADN alterado utilizando la tecnología de edición de genes CRISPR, para protegerlas del VIH. CRISPR utiliza una enzima bacteriana para atacar y cortar secuencias de ADN específicas.
+
+El investigador chino, He Jiankui, quien dirigió el trabajo, fue enviado a prisión por ignorar las pautas de seguridad y no obtener el consentimiento informado.
+
+Pero en estudios éticamente sólidos, CRISPR está preparado para tratar afecciones potencialmente mortales. Antes de la controversia, los científicos chinos inyectaron células inmunes editadas por CRISPR en un paciente para ayudarlos a combatir el cáncer de pulmón.
+
+Para 2018, dos ensayos estadounidenses que usaban técnicas similares en diferentes tipos de pacientes con cáncer estaban en funcionamiento, y se informó que tres pacientes habían recuperado sus células inmunes editadas.
+
+La edición de genes también se está probando como un tratamiento para la anemia de células falciformes hereditarias, un ensayo en curso recopilará y editará células madre de la propia sangre de los pacientes.
