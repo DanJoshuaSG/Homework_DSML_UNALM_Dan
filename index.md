@@ -29,28 +29,41 @@ Al día de hoy, Google sigue trabajando para incorporar el lenguaje natural a nu
   <img src="images/RPA.png" width="300" height="200">
 </p>
 
-La **automatización robótica de procesos** o [RPA](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_rob%C3%B3tica_de_procesos) es una forma naciente de automatización de los procesos de negocio que replica las acciones de un ser humano interactuando con la interfaz de usuario de un sistema informático.
+La **automatización robótica de procesos** o [RPA](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_rob%C3%B3tica_de_procesos) es una forma naciente de automatización de los procesos industriales, gestión y negocios que replica las acciones de un ser humano interactuando con la interfaz de usuario de un sistema informático.
 
 La RPA no es nueva y es considerada como un producto de la inteligencia artificial de poca complejidad. No obstante, es presentada como un “trending topic” en la mayoría de conferencias de tecnología e industria, lo cual dio pie a muchas inversiones para su desarrollo. Por lo que se piensa que en el 2020, se implementen tecnologías de RPA para crear y optimizar procesos que gestionen adecuadamente los recursos de una empresa de forma automática, estas empresas se conocen como empresas inteligentes.
 
 Un ejemplo es [Cisco](https://es.slideshare.net/governmenttechnology/ny-dgs-19-presentation-robotic-process-automation) que ya está usando RPA para aumetar el valor de su fuerza laboral. 
-
-
-
-| Comando | Descripción |
-| --- | --- |
-| `git status` | Enumera todos los archivos *nuevos o modificados* |
-| `git diff` | Muestra las diferencias de archivo que **no han sido** preparadas |
 
 ### 3. Blockchain
 <p align="center">
   <img src="images/blockchain.PNG" width="300" height="150">
 </p>
 
+El blockchain es una tecnología que descentraliza la gestión de las operaciones involucradas en una transacción de información, a través de una distribución de funciones en todos los eslabones de una cadena de bloques. Además, estos eslabones verifican las transacciones que validan finalmente la operación. Para entender mejor esta tecnología comparto la publicación de Javier Pastor en [Xataka](https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda).
+
+ Esta tecnología se ha ido popularizando desde la aparición de las criptomonedas como, por ejemplo, el Bitcoin. Sin embargo, a pesar que el uso de este a menguado debido a estrictas regulaciones del sistema monetario global.
+ 
+Este año, Ahmed Banafa en una publicación para [OpenMind BBVA](https://www.bbvaopenmind.com/economia/finanzas/las-diez-tendencias-de-blockchain-en-2020/) analizó tendencias que dominarían la tecnología blockchain. Entre ellas resalto su uso para atajar problemas en redes sociales, su implementación en agencias gubernamentales y su aplicación en tecnologías IoT. 
+
+
 ### 4. Internet de las cosas (IoT) y Cloud
 <p align="center">
 <img src="images/internet-of-things-iot-internet-de-las-cosas.png" width="250" height="250">
 </p>
+
+Según una publicación de [Hod Fleishman]( https://www.forbes.com/sites/hodfleishman/2020/01/07/its-2020-lets-stop-saying-iot/#2429af3f73dd), el concepto la tendencia tecnológica del internet de las cosas o IoT es más que solo la presencia de sensores embebidos en los dispositivos que pueden interconectarse a través de una red de internet. Involucra también la inferencia de la información y la respuesta adecuada ante una necesidad del usuario.
+
+[Louis Columbus]( https://www.forbes.com/sites/louiscolumbus/2020/05/25/the-top-20-iot-startups-to-watch-in-2020/#2879af9b7697) muestra cifras que evidencian y justifican el crecimiento en el interés de desarrollar tecnologías IoT para el 2020 en el mundo:
+
+| Descripción | Valor |
+| --- | --- |
+| Número de startups IoT creados (2019-2020) | **7328 /↑27%** |
+| Inversión para startups IoT (Q1 2019- Q1 2020) | **$4.7K millones /↑15%** |
+| Estimación del mercado de tecnologías IoT | **$72K-38K millones** |
+| Estimación del crecimiento del mercado IoT (2019-2025)| **$302K millones/↑10.1%** |
+
+Los startups IoT ofrecen diferentes servicios, como de seguridad, salud, domótica, entre otros. Es por ello que en los próximos años esta forme parte de nuestro día a día. 
 
 ### 5. Telecomunicaciones 5G
 <p align="center">
