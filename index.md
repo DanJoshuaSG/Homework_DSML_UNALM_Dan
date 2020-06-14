@@ -158,3 +158,7 @@ Pero en estudios éticamente sólidos, CRISPR está preparado para tratar afecci
 Para 2018, dos ensayos estadounidenses que usaban técnicas similares en diferentes tipos de pacientes con cáncer estaban en funcionamiento, y se informó que tres pacientes habían recuperado sus células inmunes editadas.
 
 La edición de genes también se está probando como un tratamiento para la anemia de células falciformes hereditarias, un ensayo en curso recopilará y editará células madre de la propia sangre de los pacientes.
+
+
+
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
