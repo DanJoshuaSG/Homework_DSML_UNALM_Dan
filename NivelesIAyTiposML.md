@@ -27,9 +27,6 @@ Es un subcampo del _Machine learning_ que requiere que el algoritmo realice iter
   <img src="images/NivelesIAyTiposML/TiposML.PNG" width="400" height="360">
 </p>
 
-[Tipos](https://medium.com/analytics-vidhya/different-types-of-machine-learning-algorithm-b4f76b5730fd)
-
-
 ## _Supervised Learning_
 
 Los algoritmos de aprendizaje supervisados son alimentados con data etiquetada preliminarmente y, a través de la búsqueda de patrones dentro de la misma, estos son capaces de etiquetar elementos dentro de una data que no haya visto previamente. Si no cumplieran correctamente su función, el supervisor humano deberá reentrenar nuevamente el algoritmo. 
